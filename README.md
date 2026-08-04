@@ -96,11 +96,6 @@ My primary interests include:
 
 - Bash
 - Python
-- Java
-- Spring Boot
-- JavaScript
-- React
-- Node.js
 
 ---
 
@@ -151,25 +146,6 @@ Production-style AWS architecture using:
 - GitHub Actions
 
 ---
-
-# 📚 Currently Learning
-
-- Advanced Kubernetes
-- AWS Architecture
-- Platform Engineering
-- Distributed Systems
-- Site Reliability Engineering
-- System Design
-
----
-
-# 🎯 2026 Goals
-
-- Build enterprise-grade cloud platforms
-- Master Kubernetes ecosystem
-- Deep dive into Platform Engineering
-- Contribute to open-source DevOps projects
-- Become a Cloud / DevOps Engineer
 
 ---
 
